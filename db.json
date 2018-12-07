@@ -1,11 +1,88 @@
 {
-  "posts": [
+  "posts":
+  [
     {
-      "id": 1,
-      "title": "renz"
+      "What We Do":
+      {
+        "titlename": "What We Do",
+        "content":
+        [
+          {
+            "Software Development":
+            {
+              "headname":"Software Development",
+              "list":
+              [
+                "Web Application Development",
+                "Mobile Application Development",
+                "Enterprise Solutions",
+                "System Inegration"
+              ]
+            }
+          },
+          {
+            "Managed Services":
+            {
+              "headname":"Managed Services",
+              "list":
+              [
+                "Managed Desktop Sevice",
+                "Managed Expert Service",
+                "Managed Systems Admin",
+                "Managed App Services",
+                "AWS Cloud"
+              ]
+            }
+          },
+          {
+            "IT Staffing":
+            {
+              "headname":"IT Staffing",
+              "list":
+              [
+                "Staff Augmentation"
+              ]
+            }
+          },
+          {
+            "Cyber Security":
+            {
+              "headname":"Cyber Security",
+              "list":
+              [
+                "Vulnerability Assessment",
+                "Software QA as a Service",
+              ]
+            }
+          },
+          {
+            "Training & Development":
+            {
+              "headname":"Cyber Security",
+              "list":
+              [
+                "Java",
+                "Blockchain"
+              ]
+            }
+          },
+          {
+            "Enterprise Solutions":
+            {
+              "headname":"Enterprise Solutions",
+              "list":
+              [
+                "ViMa",
+                "HR Solutions",
+                "SMS (M360)",
+                "Document Management System"
+              ]
+            }
+          }
+        ]
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   
+  ]
+  
 }
